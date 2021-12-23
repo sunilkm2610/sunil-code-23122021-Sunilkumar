@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "model": 2015,
+    "name": "BMW - S9",
+    "image": "https://freepngimg.com/thumb/car/3-2-car-free-download-png.png",
+    "price": "1.2Cr"
+  },
+  {
+    "id": 2,
+    "model": 2018,
+    "name": "Mercedes-Benz",
+    "image": "https://freepngimg.com/thumb/car/4-2-car-png-hd.png",
+    "price": "1.5Cr"
+  },
+  {
+    "id": 3,
+    "model": 2017,
+    "name": "Audi-Q6",
+    "image": "https://freepngimg.com/thumb/car/2-2-car-transparent.png",
+    "price": "1.25Cr"
+  },
+  {
+    "id": 4,
+    "model": 2018,
+    "name": "BMW-S1",
+    "image": "https://freepngimg.com/thumb/car/1-2-car-png-picture.png",
+    "price": "50Lakh"
+  },
+  {
+    "id": 5,
+    "model": 2020,
+    "name": "Audi-Q9",
+    "image": "https://freepngimg.com/thumb/car/12-2-car-png-image.png",
+    "price": "2.35Cr"
+  },
+  {
+    "id": 6,
+    "model": 2018,
+    "name": "Mercedes",
+    "image": "https://freepngimg.com/thumb/car/6-2-car-png-file.png",
+    "price": "1.5Cr"
+  },
+  {
+    "id": 7,
+    "model": 2018,
+    "name": "Audi-Q8",
+    "image": "https://freepngimg.com/thumb/car/9-2-car-high-quality-png.png",
+    "price": "2Cr"
+  },
+  {
+    "id": 8,
+    "model": 2018,
+    "name": "Audi-Q7",
+    "image": "https://freepngimg.com/thumb/car/11-2-car-picture.png",
+    "price": "4Cr"
+  },
+  {
+    "id": 9,
+    "model": 2016,
+    "name": "Mini-Copper",
+    "image": "https://freepngimg.com/thumb/car/70735-mini-cooper-car-volkswagen-beetle-sports.png",
+    "price": "1.5Cr"
+  }
+]

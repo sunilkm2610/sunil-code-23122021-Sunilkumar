@@ -1,0 +1,24 @@
+{
+  "name": "vamstar_graphql_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Backend/index.js",
+    "client": "npm start --prefix react-gql",
+    "dev": "concurrently \"npm start\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilkm2610/sunil-code-23122021-Sunilkumar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilkm2610/sunil-code-23122021-Sunilkumar/issues"
+  },
+  "homepage": "https://github.com/sunilkm2610/sunil-code-23122021-Sunilkumar#readme",
+  "dependencies": {
+    "concurrently": "^6.5.1"
+  }
+}
